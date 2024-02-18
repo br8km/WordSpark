@@ -83,3 +83,6 @@
 
 - Better Naming
 	- `WordBang` -> The Big Bang for English Words.
+
+- Better.Architecture
+	- Pure `Rust`, NO `Python`, ok?
