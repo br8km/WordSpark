@@ -1,0 +1,1 @@
+// Schema for Articles, News, Papers, Patents, etc.
