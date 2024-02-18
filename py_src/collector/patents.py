@@ -1,1 +1,0 @@
-"""Patents Content Scraper."""
