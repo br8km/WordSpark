@@ -102,3 +102,22 @@
             - https://github.com/SilenceEagle/paper_downloader
         - News
             - https://github.com/Iceloof/GoogleNews
+
+
+# 20240220
+
+
+- GUI.Plot.Color
+    - Libs
+        - `https://github.com/slint-ui/slint`
+        - `https://github.com/asny/three-d`
+        - `https://github.com/sebcrozet/kiss3d`
+    - Graph
+        - 2d -> tree.node.Card
+        - 3d - Example: `https://github.com/Inspirateur/wordcloud-rs`
+
+- Core
+    - Events
+        - Data
+        - User
+        - Statistics
