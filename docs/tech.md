@@ -28,4 +28,5 @@
 
 - NLP
 - Plotter
+- GUI
 
