@@ -121,3 +121,25 @@
         - Data
         - User
         - Statistics
+
+
+
+# 20240416
+
+- Utils
+    - Logging
+    - Timing
+    - IO.Storage
+- Core
+    - Spider
+    - NLP -> like `Spacy`
+    - Plotter -> drag-and-move `Root`|`Word` nodes
+    - GUI -> Adaptable.To PC|Mobile|Web
+- Process
+    - Collector: Source -> Text
+    - Converter: Text -> Document -> Thesaurus
+    - Tutor: Backend.API -> GUI.Operation
+        - Card
+        - Game
+        - Search
+        - Quiz

@@ -43,7 +43,7 @@
 
 
     - Algo
-        - `SM-17`
+        - `SM-17`|`SM-2`
 
 
 - Data.Storage.Format

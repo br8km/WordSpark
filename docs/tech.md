@@ -1,16 +1,13 @@
 
 
-# Logging
+# Tech.Stack
 
-# Json
-
-# HTTP Requests
-
-# Date Time / Timezone
-
-# Regex
-
-# HTMLParser
+- Logging
+- Json
+- HTTP Requests
+- Date Time / Timezone
+- Regex
+- HTMLParser
 
 
 
