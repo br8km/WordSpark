@@ -9,5 +9,5 @@
 - [Processing](./docs/processing.md)
 - [Reference](./docs/reference.md)
 - [Roadmap](./docs/roadmap.md)
-
+- [Tech.Stack](./docs/tech.md)
 
