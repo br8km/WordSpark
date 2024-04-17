@@ -24,6 +24,11 @@
     - https://github.com/KWARC/rust-libxml
 
 
+- PDF.Viewer
+    - https://github.com/pdf-rs/pdf
+    - https://github.com/J-F-Liu/lopdf
+
+
 # Difficulties
 
 - NLP
