@@ -56,3 +56,9 @@
         - http://www.lingoes.cn/zh/dictionary/dict_cata.php?cata=2.g
     - Http.Request
         - https://www.ldoceonline.com/dictionary/
+
+
+# 20240416
+
+- NLP
+    - https://github.com/keyvank/femtoGPT
